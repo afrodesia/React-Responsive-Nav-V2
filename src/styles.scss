@@ -33,3 +33,13 @@
       padding:10px;
     }
   }
+
+
+  .masthead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ddd;
+    min-height: 40vh;
+    color:#222;
+  }

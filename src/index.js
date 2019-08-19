@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
       <Nav />
-      <div className="content">
+      <div className="">
         <Route exact={true} path="/" component={Home} />
         <Route exaxt path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
